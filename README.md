@@ -1,2 +1,0 @@
-# jkcovid
-JK Corono Dashboard.
